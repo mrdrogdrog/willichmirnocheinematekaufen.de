@@ -10,8 +10,10 @@ a {
 color: black;
 }
 
-#ja {
+h1 {
 font-size:120pt;
+margin: 0;
+font-weight: normal;
 }
 
 body {
