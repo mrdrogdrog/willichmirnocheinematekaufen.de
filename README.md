@@ -1,3 +1,2 @@
-# WillIchMirNochEineMateKaufen.de
+moved to https://codeberg.org/mrdrogdrog/willichmirnocheinematekaufen-de
 
-Ja!... Hier ist er! Der geheime Source-Code der wichtigsten Seite des Internetz!
